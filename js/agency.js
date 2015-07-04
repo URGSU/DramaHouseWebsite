@@ -24,3 +24,15 @@ $('body').scrollspy({
 $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
+
+$(document).ready(function () {
+    $('.lotr img').hover(function () {
+        $('.lotr img').attr('src' ,'img/team/elrond.jpg')
+    });
+});
+
+$(document).ready(function () {
+    $('.lotr img').mouseout(function () {
+        $('.lotr img').attr('src' ,'img/team/1.jpg')
+    });
+});
