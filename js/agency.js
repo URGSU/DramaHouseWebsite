@@ -26,13 +26,13 @@ $('.navbar-collapse ul li a').click(function() {
 });
 
 $(document).ready(function () {
-    $('.lotr img').hover(function () {
-        $('.lotr img').attr('src' ,'img/team/elrond.jpg')
-    });
-});
-
-$(document).ready(function () {
-    $('.lotr img').mouseout(function () {
-        $('.lotr img').attr('src' ,'img/team/1.jpg')
+    $('.lotr').hover(function () {
+        var src = $(this).attr("src");
+        $(this).attr('src', $(this).attr("alt"));
+        $(this).attr('alt', src);
+    }).mouseout(function () {
+        var alt = $(this).attr("alt");
+        $(this).attr('src', $(this).attr("src"));
+        $(this).attr('alt', alt);
     });
 });
