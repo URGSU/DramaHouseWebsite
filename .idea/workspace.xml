@@ -2,65 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7202e60f-a6fd-402f-8447-3b93b04fc3e2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/about/1.jpg" afterPath="$PROJECT_DIR$/img/about/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/about/1.jpg" afterPath="$PROJECT_DIR$/img/build/about/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/team/1.jpg" afterPath="$PROJECT_DIR$/img/build/team/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/team/1.jpg" afterPath="$PROJECT_DIR$/img/team/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/about/2.jpg" afterPath="$PROJECT_DIR$/img/about/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/about/2.jpg" afterPath="$PROJECT_DIR$/img/build/about/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/team/2.jpg" afterPath="$PROJECT_DIR$/img/build/team/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/team/2.jpg" afterPath="$PROJECT_DIR$/img/team/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/about/3.jpg" afterPath="$PROJECT_DIR$/img/about/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/about/3.jpg" afterPath="$PROJECT_DIR$/img/build/about/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/team/3.jpg" afterPath="$PROJECT_DIR$/img/build/team/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/team/3.jpg" afterPath="$PROJECT_DIR$/img/team/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/about/4.jpg" afterPath="$PROJECT_DIR$/img/about/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/about/4.jpg" afterPath="$PROJECT_DIR$/img/build/about/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/logos/aetuts.jpg" afterPath="$PROJECT_DIR$/img/build/logos/aetuts.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logos/aetuts.jpg" afterPath="$PROJECT_DIR$/img/logos/aetuts.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/logos/creative-market.jpg" afterPath="$PROJECT_DIR$/img/build/logos/creative-market.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logos/creative-market.jpg" afterPath="$PROJECT_DIR$/img/logos/creative-market.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/logos/designmodo.jpg" afterPath="$PROJECT_DIR$/img/build/logos/designmodo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logos/designmodo.jpg" afterPath="$PROJECT_DIR$/img/logos/designmodo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/portfolio/dreams-preview.png" afterPath="$PROJECT_DIR$/img/build/portfolio/dreams-preview.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/dreams-preview.png" afterPath="$PROJECT_DIR$/img/portfolio/dreams-preview.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/portfolio/dreams.png" afterPath="$PROJECT_DIR$/img/build/portfolio/dreams.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/dreams.png" afterPath="$PROJECT_DIR$/img/portfolio/dreams.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/team/elrond.jpg" afterPath="$PROJECT_DIR$/img/build/team/elrond.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/team/elrond.jpg" afterPath="$PROJECT_DIR$/img/team/elrond.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/logos/envato.jpg" afterPath="$PROJECT_DIR$/img/build/logos/envato.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logos/envato.jpg" afterPath="$PROJECT_DIR$/img/logos/envato.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/portfolio/escape-preview.png" afterPath="$PROJECT_DIR$/img/build/portfolio/escape-preview.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/escape-preview.png" afterPath="$PROJECT_DIR$/img/portfolio/escape-preview.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/portfolio/escape.png" afterPath="$PROJECT_DIR$/img/build/portfolio/escape.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/escape.png" afterPath="$PROJECT_DIR$/img/portfolio/escape.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/portfolio/golden-preview.png" afterPath="$PROJECT_DIR$/img/build/portfolio/golden-preview.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/golden-preview.png" afterPath="$PROJECT_DIR$/img/portfolio/golden-preview.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/portfolio/golden.png" afterPath="$PROJECT_DIR$/img/build/portfolio/golden.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/golden.png" afterPath="$PROJECT_DIR$/img/portfolio/golden.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/header-bg.jpg" afterPath="$PROJECT_DIR$/img/header-bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/header-bg.jpg" afterPath="$PROJECT_DIR$/img/build/header-bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/map-image.png" afterPath="$PROJECT_DIR$/img/map-image.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/map-image.png" afterPath="$PROJECT_DIR$/img/build/map-image.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/logos/microlancer.jpg" afterPath="$PROJECT_DIR$/img/build/logos/microlancer.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logos/microlancer.jpg" afterPath="$PROJECT_DIR$/img/logos/microlancer.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/portfolio/roundicons-free.png" afterPath="$PROJECT_DIR$/img/build/portfolio/roundicons-free.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/roundicons-free.png" afterPath="$PROJECT_DIR$/img/portfolio/roundicons-free.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/portfolio/roundicons.png" afterPath="$PROJECT_DIR$/img/build/portfolio/roundicons.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/roundicons.png" afterPath="$PROJECT_DIR$/img/portfolio/roundicons.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/portfolio/startup-framework-preview.png" afterPath="$PROJECT_DIR$/img/build/portfolio/startup-framework-preview.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/startup-framework-preview.png" afterPath="$PROJECT_DIR$/img/portfolio/startup-framework-preview.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/portfolio/startup-framework.png" afterPath="$PROJECT_DIR$/img/build/portfolio/startup-framework.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/startup-framework.png" afterPath="$PROJECT_DIR$/img/portfolio/startup-framework.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/logos/themeforest.jpg" afterPath="$PROJECT_DIR$/img/build/logos/themeforest.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logos/themeforest.jpg" afterPath="$PROJECT_DIR$/img/logos/themeforest.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/portfolio/treehouse-preview.png" afterPath="$PROJECT_DIR$/img/build/portfolio/treehouse-preview.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/treehouse-preview.png" afterPath="$PROJECT_DIR$/img/portfolio/treehouse-preview.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/portfolio/treehouse.png" afterPath="$PROJECT_DIR$/img/build/portfolio/treehouse.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/treehouse.png" afterPath="$PROJECT_DIR$/img/portfolio/treehouse.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/logos/wordpress.jpg" afterPath="$PROJECT_DIR$/img/build/logos/wordpress.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logos/wordpress.jpg" afterPath="$PROJECT_DIR$/img/logos/wordpress.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Drama House Website.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -670,7 +612,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
