@@ -35,4 +35,34 @@ $(document).ready(function () {
         $(this).attr('src', $(this).attr("src"));
         $(this).attr('alt', alt);
     });
+
+    var ratio;
+    if($(window).width()>970){
+        ratio = 1/2;
+    }
+    else if($(window).width()>700){
+        ratio = 3/5
+    }
+    else{
+        ratio = 4/5;
+    }
+    $('.resizeIFrame')
+        .attr('width', ratio*$(window).width())
+        .attr('height', (315/560)*(ratio*$(window).width()));
+    $(window).resize(function () {
+        console.log($(window).width());
+        var ratio;
+        if($(window).width()>970){
+            ratio = 1/2;
+        }
+        else if($(window).width()>700){
+            ratio = 3/5
+        }
+        else{
+            ratio = 4/5;
+        }
+        $('.resizeIFrame').attr('width', ratio*$(window).width())
+            .attr('height', (315/560)*(ratio*$(window).width()));
+    });
 });
+
