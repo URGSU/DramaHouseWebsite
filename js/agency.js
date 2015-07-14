@@ -38,10 +38,10 @@ $(document).ready(function () {
 
     var ratio;
     if($(window).width()>970){
-        ratio = 1/2;
+        ratio = 1/3;
     }
     else if($(window).width()>700){
-        ratio = 3/5
+        ratio = 3/7
     }
     else{
         ratio = 4/5;
@@ -53,10 +53,10 @@ $(document).ready(function () {
         console.log($(window).width());
         var ratio;
         if($(window).width()>970){
-            ratio = 1/2;
+            ratio = 1/3;
         }
         else if($(window).width()>700){
-            ratio = 3/5
+            ratio = 3/7
         }
         else{
             ratio = 4/5;
