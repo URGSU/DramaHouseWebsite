@@ -14,6 +14,9 @@
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
+    <!-- WOW animations plugin -->
+    <link rel="stylesheet" href="css/animate.css">
+
     <!-- Custom CSS -->
     <link href="css/agency.css" rel="stylesheet">
 
@@ -89,7 +92,7 @@
 </header>
 
 <!-- Recruitment Section -->
-<section id="recruitment">
+<section id="recruitment" class="bg-one-color wow">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
@@ -101,7 +104,9 @@
             <iframe class="resizeIFrame" width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen></iframe>
         </div>
         <div class="col-lg-12 text-center" style="padding: 30px 0;">
-            <button type="submit" class="btn btn-xl">Get Application</button>
+            <div class="wow bounceIn" data-wow-delay="0.1s">
+                <button type="submit" class="btn btn-xl">Get Application</button>
+            </div>
         </div>
         <!--<div class="row text-center">-->
         <!--<div class="col-md-4">-->
@@ -133,7 +138,7 @@
 </section>
 
 <!-- Events Grid Section -->
-<section id="events" class="bg-light-gray">
+<section id="events" class="bg-two-color">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
@@ -231,7 +236,7 @@
 </section>
 
 <!-- About Section -->
-<section id="about">
+<section id="about" class="bg-three-color">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
@@ -312,7 +317,7 @@
 </section>
 
 <!-- Members Section -->
-<section id="members" class="bg-light-gray" style="padding-top: 110px;">
+<section id="members" class="bg-four-color" style="padding-top: 110px;">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
@@ -446,7 +451,7 @@
                             <img src="img/build/team/3.jpg" class="img-responsive img-circle" alt="">
                             <h4>Diana Pertersen</h4>
                             <button type="button" class="btn btn-info" data-toggle="collapse">Show Bio</button>
-                            <ul class="list-inline social-buttons">
+                            <ul class="list-inline social-buttons wow bounceIn">
                                 <li><a href="#"><i class="fa fa-twitter"></i></a>
                                 </li>
                                 <li><a href="#"><i class="fa fa-facebook"></i></a>
@@ -468,32 +473,32 @@
 </section>
 
 <!-- Clients Aside -->
-<aside class="clients">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-3 col-sm-6">
-                <a href="#">
-                    <img src="img/build/logos/dhouse.png" class="img-responsive img-centered" alt="">
-                </a>
-            </div>
-            <div class="col-md-3 col-sm-6">
-                <a href="#">
-                    <img src="img/build/logos/DHausLogo.jpg" class="img-responsive img-centered" alt="">
-                </a>
-            </div>
-            <div class="col-md-3 col-sm-6">
-                <a href="#">
-                    <img src="img/build/logos/Dhausshirt.jpg" class="img-responsive img-centered" alt="">
-                </a>
-            </div>
-            <div class="col-md-3 col-sm-6">
-                <a href="#">
-                    <img src="img/build/logos/dhousebuilding.jpg" class="img-responsive img-centered" alt="">
-                </a>
-            </div>
-        </div>
-    </div>
-</aside>
+<!--<aside class="clients" class="bg-five-color">-->
+<!--<div class="container">-->
+<!--<div class="row">-->
+<!--<div class="col-md-3 col-sm-6">-->
+<!--<a href="#">-->
+<!--<img src="img/build/logos/dhouse.png" class="img-responsive img-centered" alt="">-->
+<!--</a>-->
+<!--</div>-->
+<!--<div class="col-md-3 col-sm-6">-->
+<!--<a href="#">-->
+<!--<img src="img/build/logos/DHausLogo.jpg" class="img-responsive img-centered" alt="">-->
+<!--</a>-->
+<!--</div>-->
+<!--<div class="col-md-3 col-sm-6">-->
+<!--<a href="#">-->
+<!--<img src="img/build/logos/Dhausshirt.jpg" class="img-responsive img-centered" alt="">-->
+<!--</a>-->
+<!--</div>-->
+<!--<div class="col-md-3 col-sm-6">-->
+<!--<a href="#">-->
+<!--<img src="img/build/logos/dhousebuilding.jpg" class="img-responsive img-centered" alt="">-->
+<!--</a>-->
+<!--</div>-->
+<!--</div>-->
+<!--</div>-->
+<!--</aside>-->
 
 <!-- Contact Section -->
 <section id="contact">
@@ -547,7 +552,7 @@
                 <span class="copyright">Copyright &copy; Drama House 2015</span>
             </div>
             <div class="col-md-4">
-                <ul class="list-inline social-buttons">
+                <ul class="list-inline social-buttons wow bounceIn">
                     <li><a href="#"><i class="fa fa-twitter"></i></a>
                     </li>
                     <li><a href="#"><i class="fa fa-facebook"></i></a>
@@ -748,6 +753,9 @@
 <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
 <script src="js/classie.js"></script>
 <script src="js/cbpAnimatedHeader.js"></script>
+
+<!-- WOW Plugin -->
+<script src="js/wow.min.js"></script>
 
 <!-- Contact Form JavaScript -->
 <script src="js/jqBootstrapValidation.js"></script>

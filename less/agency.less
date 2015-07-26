@@ -9,11 +9,11 @@ body {
 }
 
 .text-muted {
-  color: @gray;
+  color: @blue-darker;
 }
 
 .text-primary {
-  color: @brand-primary;
+  color: @one-color;
 }
 
 p {
@@ -53,8 +53,20 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 auto;
 }
 
-.bg-light-gray {
-  background-color: @gray-lighter;
+.bg-one-color {
+  background-color: @one-color;
+}
+
+.bg-two-color {
+  background-color: @two-color;
+}
+
+.bg-three-color {
+  background-color: @three-color;
+}
+
+.bg-four-color {
+  background-color: @four-color;
 }
 
 .bg-darkest-gray {
@@ -64,9 +76,21 @@ h1, h2, h3, h4, h5, h6 {
 // Restyled Primary Buttons
 
 .btn-primary {
-  .button-variant(white; @brand-primary; @brand-primary);
+   .button-variant(white; @blue-darker; @blue-darker);
+   .heading-font;
+   font-weight: 700;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  transition: all 0.3s;
+ }
+
+.btn-info {
+  .button-variant(@blue-darker; @one-color; @one-color);
   .heading-font;
   font-weight: 700;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  transition: all 0.3s;
 }
 
 .btn-xl {
@@ -76,12 +100,15 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 3px;
   font-size: 18px;
   padding: 20px 40px;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  transition: all 0.3s;
 }
 
 // Custom Navigation Bar
 
 .navbar-default {
-  background-color: @gray-darkest;
+  background-color: @blue-darker;
   border-color: transparent;
   .navbar-brand {
 	color: @brand-primary;
@@ -113,7 +140,7 @@ h1, h2, h3, h4, h5, h6 {
 		.heading-font;
 		font-weight: 400;
 		letter-spacing: 1px;
-		color: white;
+		color:@one-color;
 		&:hover,
 		&:focus {
 		  color: @brand-primary;
@@ -153,7 +180,7 @@ h1, h2, h3, h4, h5, h6 {
 	}
   }
   .navbar-default.navbar-shrink {
-	background-color: @gray-darkest;
+	background-color: @blue-darker;
 	padding: 10px 0;
 	.navbar-brand {
 	  font-size: 1.5em;
@@ -168,11 +195,12 @@ header {
   background-position: center center;
   .background-cover;
   text-align: center;
-  color: white;
+  color:@one-color;
   .intro-text {
 	padding-top: 100px;
 	padding-bottom: 50px;
 	.intro-lead-in {
+	  color:@one-color;
 	  .serif-font;
 	  font-style: italic;
 	  font-size: 22px;
@@ -180,6 +208,8 @@ header {
 	  margin-bottom: 25px;
 	}
 	.intro-heading {
+	  color:@one-color;
+
 	  .heading-font;
 	  font-weight: 700;
 	  font-size: 50px;
@@ -256,7 +286,7 @@ section {
 	  max-width: 400px;
 	  margin: 0 auto;
 	  .events-hover {
-		background: fade(@brand-primary, 90%);
+		background: fade(@one-color, 90%);
 		position: absolute;
 		width: 100%;
 		height: 100%;
@@ -607,7 +637,7 @@ ul.social-buttons {
 	  background-color: @gray-darkest;
 	  height: 40px;
 	  width: 40px;
-	  border-radius: 100%;
+	  border-radius: 35%;
 	  font-size: 20px;
 	  line-height: 40px;
 	  color: white;

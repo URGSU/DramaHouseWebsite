@@ -15,6 +15,8 @@ $(function() {
     });
 });
 
+new WOW().init();
+
 // Highlight the top nav as scrolling occurs
 $('body').scrollspy({
     target: '.navbar-fixed-top'
@@ -65,4 +67,5 @@ $(document).ready(function () {
             .attr('height', (315/560)*(ratio*$(window).width()));
     });
 });
+
 
