@@ -27,6 +27,7 @@ $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
 
+//lord of the rings photo and iframe responsiveness
 $(document).ready(function () {
     $('.lotr').hover(function () {
         var src = $(this).attr("src");

@@ -9,11 +9,11 @@ body {
 }
 
 .text-muted {
-  color: @blue-darker;
+  color: @gray;
 }
 
 .text-primary {
-  color: @one-color;
+  color: @brand-primary;
 }
 
 p {
@@ -53,20 +53,8 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 auto;
 }
 
-.bg-one-color {
-  background-color: @one-color;
-}
-
-.bg-two-color {
-  background-color: @two-color;
-}
-
-.bg-three-color {
-  background-color: @three-color;
-}
-
-.bg-four-color {
-  background-color: @four-color;
+.bg-light-gray {
+  background-color: @gray-lighter;
 }
 
 .bg-darkest-gray {
@@ -76,21 +64,9 @@ h1, h2, h3, h4, h5, h6 {
 // Restyled Primary Buttons
 
 .btn-primary {
-   .button-variant(white; @blue-darker; @blue-darker);
-   .heading-font;
-   font-weight: 700;
-  -webkit-transition: all 0.3s;
-  -moz-transition: all 0.3s;
-  transition: all 0.3s;
- }
-
-.btn-info {
-  .button-variant(@blue-darker; @one-color; @one-color);
+  .button-variant(white; @brand-primary; @brand-primary);
   .heading-font;
   font-weight: 700;
-  -webkit-transition: all 0.3s;
-  -moz-transition: all 0.3s;
-  transition: all 0.3s;
 }
 
 .btn-xl {
@@ -100,15 +76,12 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 3px;
   font-size: 18px;
   padding: 20px 40px;
-  -webkit-transition: all 0.3s;
-  -moz-transition: all 0.3s;
-  transition: all 0.3s;
 }
 
 // Custom Navigation Bar
 
 .navbar-default {
-  background-color: @blue-darker;
+  background-color: @gray-darkest;
   border-color: transparent;
   .navbar-brand {
 	color: @brand-primary;
@@ -140,7 +113,7 @@ h1, h2, h3, h4, h5, h6 {
 		.heading-font;
 		font-weight: 400;
 		letter-spacing: 1px;
-		color:@one-color;
+		color: white;
 		&:hover,
 		&:focus {
 		  color: @brand-primary;
@@ -180,7 +153,7 @@ h1, h2, h3, h4, h5, h6 {
 	}
   }
   .navbar-default.navbar-shrink {
-	background-color: @blue-darker;
+	background-color: @gray-darkest;
 	padding: 10px 0;
 	.navbar-brand {
 	  font-size: 1.5em;
@@ -195,12 +168,11 @@ header {
   background-position: center center;
   .background-cover;
   text-align: center;
-  color:@one-color;
+  color: white;
   .intro-text {
 	padding-top: 100px;
 	padding-bottom: 50px;
 	.intro-lead-in {
-	  color:@one-color;
 	  .serif-font;
 	  font-style: italic;
 	  font-size: 22px;
@@ -208,8 +180,6 @@ header {
 	  margin-bottom: 25px;
 	}
 	.intro-heading {
-	  color:@one-color;
-
 	  .heading-font;
 	  font-weight: 700;
 	  font-size: 50px;
@@ -286,7 +256,7 @@ section {
 	  max-width: 400px;
 	  margin: 0 auto;
 	  .events-hover {
-		background: fade(@one-color, 90%);
+		background: fade(@brand-primary, 90%);
 		position: absolute;
 		width: 100%;
 		height: 100%;
@@ -560,10 +530,8 @@ aside.clients {
 // Contact Section
 
 section#contact {
-  background-color: @gray-darkest;
-  background-image: url('../img/map-image.png');
-  background-position: center;
-  background-repeat: no-repeat;
+  background: @gray-darkest url('../img/map-image.png') no-repeat center;
+  background-size: cover;
   .section-heading {
 	color: white;
   }
@@ -637,7 +605,7 @@ ul.social-buttons {
 	  background-color: @gray-darkest;
 	  height: 40px;
 	  width: 40px;
-	  border-radius: 35%;
+	  border-radius: 100%;
 	  font-size: 20px;
 	  line-height: 40px;
 	  color: white;
