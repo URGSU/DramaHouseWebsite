@@ -27,18 +27,23 @@ $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
 
-//lord of the rings photo and iframe responsiveness
 $(document).ready(function () {
+    //lord of the rings photo
     $('.lotr').hover(function () {
-        var src = $(this).attr("src");
-        $(this).attr('src', $(this).attr("alt"));
-        $(this).attr('alt', src);
+        if($(this).attr("alt")) {
+            var src = $(this).attr("src");
+            $(this).attr('src', $(this).attr("alt"));
+            $(this).attr('alt', src);
+        }
     }).mouseout(function () {
-        var alt = $(this).attr("alt");
-        $(this).attr('src', $(this).attr("src"));
-        $(this).attr('alt', alt);
+        if($(this).attr("alt")) {
+            var alt = $(this).attr("alt");
+            $(this).attr('src', $(this).attr("src"));
+            $(this).attr('alt', alt);
+        }
     });
 
+    //iFrame responsiveness for mobile
     var ratio;
     if($(window).width()>970){
         ratio = 1/3;
