@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7202e60f-a6fd-402f-8447-3b93b04fc3e2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/agency.js" afterPath="$PROJECT_DIR$/js/agency.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/monster-mosh-big.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/portfolio/escape-preview.png" afterPath="$PROJECT_DIR$/img/build/portfolio/escape-preview.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/escape-preview.png" afterPath="$PROJECT_DIR$/img/portfolio/escape-preview.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/portfolio/monster-mosh.png" afterPath="$PROJECT_DIR$/img/build/portfolio/monster-mosh.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/monster-mosh.png" afterPath="$PROJECT_DIR$/img/portfolio/monster-mosh.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/portfolio/roundicons-free.png" afterPath="$PROJECT_DIR$/img/build/portfolio/roundicons-free.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/roundicons-free.png" afterPath="$PROJECT_DIR$/img/portfolio/roundicons-free.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/portfolio/startup-framework-preview.png" afterPath="$PROJECT_DIR$/img/build/portfolio/startup-framework-preview.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/startup-framework-preview.png" afterPath="$PROJECT_DIR$/img/portfolio/startup-framework-preview.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/agency.css" afterPath="$PROJECT_DIR$/css/agency.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/agency.less" afterPath="$PROJECT_DIR$/less/agency.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -37,11 +47,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.04" vertical-offset="2198" max-vertical-offset="12060">
-              <caret line="160" column="66" selection-start-line="160" selection-start-column="66" selection-end-line="160" selection-end-column="66" />
+            <state vertical-scroll-proportion="0.7270341" vertical-offset="4643" max-vertical-offset="11835">
+              <caret line="328" column="34" selection-start-line="328" selection-start-column="34" selection-end-line="328" selection-end-column="34" />
               <folding>
                 <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -64,10 +74,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="agency.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="agency.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/agency.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4524362" vertical-offset="0" max-vertical-offset="1185">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1185">
               <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
               <folding />
             </state>
@@ -77,8 +87,8 @@
       <file leaf-file-name="agency.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/less/agency.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-163.2" vertical-offset="0" max-vertical-offset="11295">
-              <caret line="544" column="19" selection-start-line="544" selection-start-column="19" selection-end-line="544" selection-end-column="19" />
+            <state vertical-scroll-proportion="-3.14" vertical-offset="7718" max-vertical-offset="11310">
+              <caret line="525" column="0" selection-start-line="525" selection-start-column="0" selection-end-line="525" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -120,9 +130,9 @@
         <option value="$PROJECT_DIR$/js/wow.js" />
         <option value="$PROJECT_DIR$/less/mixins.less" />
         <option value="$PROJECT_DIR$/less/variables.less" />
+        <option value="$PROJECT_DIR$/js/agency.js" />
         <option value="$PROJECT_DIR$/less/agency.less" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/js/agency.js" />
       </list>
     </option>
   </component>
@@ -628,7 +638,7 @@
       <workItem from="1437845376659" duration="2393000" />
       <workItem from="1437920020152" duration="13337000" />
       <workItem from="1438223598631" duration="6018000" />
-      <workItem from="1439427132558" duration="3993000" />
+      <workItem from="1439427132558" duration="5953000" />
     </task>
     <task id="LOCAL-00001" summary="First edit, changed welcome message">
       <created>1435884370975</created>
@@ -738,11 +748,17 @@
       <option name="project" value="LOCAL" />
       <updated>1439507704256</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Added halloween event and conditional lotr alt">
+      <created>1439509807095</created>
+      <option name="number" value="00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1439509807095</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79612000" />
+    <option name="totallyTimeSpent" value="81572000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -831,7 +847,8 @@
     <MESSAGE value="Added Charlie, replaced empty paragraph with CSS" />
     <MESSAGE value="Undid color scheme changes" />
     <MESSAGE value="Added missing files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added missing files" />
+    <MESSAGE value="Added halloween event and conditional lotr alt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added halloween event and conditional lotr alt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1181,10 +1198,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/agency.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1185">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/agency.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.14" vertical-offset="7718" max-vertical-offset="11310">
+          <caret line="525" column="0" selection-start-line="525" selection-start-column="0" selection-end-line="525" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.04" vertical-offset="2198" max-vertical-offset="12060">
-          <caret line="160" column="66" selection-start-line="160" selection-start-column="66" selection-end-line="160" selection-end-column="66" />
+        <state vertical-scroll-proportion="0.7270341" vertical-offset="4643" max-vertical-offset="11835">
+          <caret line="328" column="34" selection-start-line="328" selection-start-column="34" selection-end-line="328" selection-end-column="34" />
           <folding>
             <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1193,22 +1226,6 @@
             <element signature="n#style#0;n#div#2;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less/agency.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-163.2" vertical-offset="0" max-vertical-offset="11295">
-          <caret line="544" column="19" selection-start-line="544" selection-start-column="19" selection-end-line="544" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/agency.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4524362" vertical-offset="0" max-vertical-offset="1185">
-          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
