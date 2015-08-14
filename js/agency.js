@@ -23,7 +23,7 @@ if(isFirst) {
         $('button.page-scroll').bind('click', function (event) {
             var $anchor = $(this);
             $('html, body').stop().animate({
-                scrollTop: $($anchor.attr('href')).offset().top - 150
+                scrollTop: $($anchor.attr('href')).offset().top - 130
             }, 500, 'easeInOutExpo');
             event.preventDefault();
             isFirst = false;
@@ -37,7 +37,7 @@ $('#allMembers').on('hidden.bs.collapse', function() {
         $('button.page-scroll').bind('click', function(event) {
             var $anchor = $(this);
             $('html, body').stop().animate({
-                scrollTop: $($anchor.attr('href')).offset().top - 150
+                scrollTop: $($anchor.attr('href')).offset().top - 130
             }, 500, 'easeInOutExpo');
             event.preventDefault();
         });
