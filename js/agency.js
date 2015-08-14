@@ -15,6 +15,47 @@ $(function() {
     });
 });
 
+var isFirst = true;
+
+if(isFirst) {
+// jQuery for page scrolling feature - requires jQuery Easing plugin
+    $(function () {
+        $('button.page-scroll').bind('click', function (event) {
+            var $anchor = $(this);
+            $('html, body').stop().animate({
+                scrollTop: $($anchor.attr('href')).offset().top - 150
+            }, 500, 'easeInOutExpo');
+            event.preventDefault();
+            isFirst = false;
+        });
+    });
+}
+
+$('#allMembers').on('hidden.bs.collapse', function() {
+    // jQuery for page scrolling feature - requires jQuery Easing plugin
+    $(function() {
+        $('button.page-scroll').bind('click', function(event) {
+            var $anchor = $(this);
+            $('html, body').stop().animate({
+                scrollTop: $($anchor.attr('href')).offset().top - 150
+            }, 500, 'easeInOutExpo');
+            event.preventDefault();
+        });
+    });
+});
+$('#allMembers').on('shown.bs.collapse', function() {
+    // jQuery for page scrolling feature - requires jQuery Easing plugin
+    $(function() {
+        $('button.page-scroll').bind('click', function(event) {
+            var $anchor = $(this);
+            $('html, body').stop().animate({
+                scrollTop: $('#members').offset().top
+            }, 500, 'easeInOutExpo');
+            event.preventDefault();
+        });
+    });
+});
+
 new WOW().init();
 
 // Highlight the top nav as scrolling occurs
