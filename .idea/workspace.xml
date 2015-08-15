@@ -2,7 +2,73 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7202e60f-a6fd-402f-8447-3b93b04fc3e2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cur964.cur" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/build/portfolio/fireside-chats-big.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/fireside-chats-big.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/build/portfolio/fireside-chats.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/fireside-chats.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/build/logos/aetuts.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/build/logos/creative-market.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/build/logos/designmodo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/build/logos/envato.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/build/logos/microlancer.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/build/logos/themeforest.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/build/logos/wordpress.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/build/portfolio/bacchanalia1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/build/portfolio/dhausprofile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/build/portfolio/escape-preview.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/build/portfolio/escape.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/build/portfolio/golden-preview.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/build/portfolio/golden.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/build/portfolio/monster-mosh-big.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/build/portfolio/monster-mosh-big2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/build/portfolio/roundicons-free.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/build/portfolio/roundicons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/build/portfolio/startup-framework-preview.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/build/portfolio/startup-framework.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/build/portfolio/treehouse-preview.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/build/portfolio/treehouse.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/build/team/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/build/team/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logos/aetuts.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logos/creative-market.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logos/designmodo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logos/envato.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logos/microlancer.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logos/themeforest.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logos/wordpress.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/escape-preview.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/escape.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/golden-preview.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/golden.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/roundicons-free.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/roundicons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/startup-framework-preview.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/startup-framework.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/treehouse-preview.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/treehouse.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/team/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/team/3.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/team/1.jpg" afterPath="$PROJECT_DIR$/img/build/team/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/team/1.jpg" afterPath="$PROJECT_DIR$/img/team/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/logos/DHausLogo.jpg" afterPath="$PROJECT_DIR$/img/build/logos/DHausLogo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logos/DHausLogo.jpg" afterPath="$PROJECT_DIR$/img/logos/DHausLogo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/logos/Dhausshirt.jpg" afterPath="$PROJECT_DIR$/img/build/logos/Dhausshirt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logos/Dhausshirt.jpg" afterPath="$PROJECT_DIR$/img/logos/Dhausshirt.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/portfolio/bacchanalia-big.png" afterPath="$PROJECT_DIR$/img/build/portfolio/bacchanalia-big.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/bacchanalia-big.png" afterPath="$PROJECT_DIR$/img/portfolio/bacchanalia-big.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/team/charlie.jpg" afterPath="$PROJECT_DIR$/img/build/team/charlie.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/team/charlie.jpg" afterPath="$PROJECT_DIR$/img/team/charlie.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/logos/dhouse.png" afterPath="$PROJECT_DIR$/img/build/logos/dhouse.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logos/dhouse.png" afterPath="$PROJECT_DIR$/img/logos/dhouse.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/logos/dhousebuilding.jpg" afterPath="$PROJECT_DIR$/img/build/logos/dhousebuilding.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logos/dhousebuilding.jpg" afterPath="$PROJECT_DIR$/img/logos/dhousebuilding.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/team/elrond.jpg" afterPath="$PROJECT_DIR$/img/build/team/elrond.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/team/elrond.jpg" afterPath="$PROJECT_DIR$/img/team/elrond.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/portfolio/monster-mosh.png" afterPath="$PROJECT_DIR$/img/build/portfolio/monster-mosh.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/monster-mosh.png" afterPath="$PROJECT_DIR$/img/portfolio/monster-mosh.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/build/team/taylor.jpg" afterPath="$PROJECT_DIR$/img/build/team/taylor.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/team/taylor.jpg" afterPath="$PROJECT_DIR$/img/team/taylor.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Drama House Website.iws" />
@@ -36,11 +102,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.375" vertical-offset="270" max-vertical-offset="12675">
-              <caret line="41" column="34" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.8057743" vertical-offset="3173" max-vertical-offset="12675">
+              <caret line="232" column="52" selection-start-line="232" selection-start-column="52" selection-end-line="232" selection-end-column="52" />
               <folding>
                 <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -66,7 +132,7 @@
       <file leaf-file-name="Gruntfile.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gruntfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1050">
+            <state vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="1050">
               <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
               <folding />
             </state>
@@ -83,10 +149,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="agency.less" pinned="false" current-in-tab="true">
+      <file leaf-file-name="agency.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/less/agency.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25641027" vertical-offset="7425" max-vertical-offset="11370">
+            <state vertical-scroll-proportion="-10.808824" vertical-offset="6840" max-vertical-offset="11370">
               <caret line="505" column="20" selection-start-line="505" selection-start-column="14" selection-end-line="505" selection-end-column="20" />
               <folding />
             </state>
@@ -130,8 +196,8 @@
         <option value="$PROJECT_DIR$/less/mixins.less" />
         <option value="$PROJECT_DIR$/less/variables.less" />
         <option value="$PROJECT_DIR$/js/agency.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/less/agency.less" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -338,6 +404,50 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Drama House Website" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Drama-House-Website" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="logos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Drama House Website" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Drama-House-Website" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="about" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -692,7 +802,7 @@
       <workItem from="1437845376659" duration="2393000" />
       <workItem from="1437920020152" duration="13337000" />
       <workItem from="1438223598631" duration="6018000" />
-      <workItem from="1439427132558" duration="17464000" />
+      <workItem from="1439427132558" duration="18349000" />
     </task>
     <task id="LOCAL-00001" summary="First edit, changed welcome message">
       <created>1435884370975</created>
@@ -898,11 +1008,17 @@
       <option name="project" value="LOCAL" />
       <updated>1439591250557</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Added sword cursor file">
+      <created>1439591307177</created>
+      <option name="number" value="00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1439591307177</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93083000" />
+    <option name="totallyTimeSpent" value="93968000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -926,7 +1042,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="5" y="23" width="1272" height="773" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -941,14 +1057,14 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.50108933" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Grunt" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32599118" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Grunt" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32599118" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32892805" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32892805" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19349593" sideWeight="0.49891067" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19349593" sideWeight="0.49891067" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -973,7 +1089,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="Lowered top padding for team section" />
     <MESSAGE value="Added Show All Members button" />
     <MESSAGE value="Fixed image routes" />
     <MESSAGE value="Added self-resizing iFrame for recruitment video, added d house logos" />
@@ -998,7 +1113,8 @@
     <MESSAGE value="Added sword cursor" />
     <MESSAGE value="Added modal open event to member images on click" />
     <MESSAGE value="Added brooke" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added brooke" />
+    <MESSAGE value="Added sword cursor file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added sword cursor file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1009,21 +1125,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/less/agency.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="924" max-vertical-offset="10995">
-          <caret line="75" column="9" selection-start-line="75" selection-start-column="7" selection-end-line="75" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="17266" max-vertical-offset="98850">
-          <caret line="1122" column="12" selection-start-line="1122" selection-start-column="1" selection-end-line="1122" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/agency.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="645">
@@ -1197,16 +1298,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/build/logos/creative-market.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/build/logos/wordpress.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="105">
@@ -1215,16 +1306,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/portfolio/monster-mosh.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/portfolio/roundicons.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/build/header-bg.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -1279,31 +1360,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/build/logos/dhousebuilding.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/build/logos/DHausLogo.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/build/logos/Dhausshirt.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/build/logos/dhouse.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/build/team/charlie.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/animate.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="48664" max-vertical-offset="49155">
@@ -1323,14 +1379,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.10440835" vertical-offset="0" max-vertical-offset="431">
           <caret line="3" column="731" selection-start-line="3" selection-start-column="731" selection-end-line="3" selection-end-column="731" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1050">
-          <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1363,10 +1411,26 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/less/agency.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.808824" vertical-offset="6840" max-vertical-offset="11370">
+          <caret line="505" column="20" selection-start-line="505" selection-start-column="14" selection-end-line="505" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="1050">
+          <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.375" vertical-offset="270" max-vertical-offset="12675">
-          <caret line="41" column="34" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.8057743" vertical-offset="3173" max-vertical-offset="12675">
+          <caret line="232" column="52" selection-start-line="232" selection-start-column="52" selection-end-line="232" selection-end-column="52" />
           <folding>
             <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1378,14 +1442,6 @@
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#div#1;n#div#0;n#div#0;n#aside#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less/agency.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25641027" vertical-offset="7425" max-vertical-offset="11370">
-          <caret line="505" column="20" selection-start-line="505" selection-start-column="14" selection-end-line="505" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
