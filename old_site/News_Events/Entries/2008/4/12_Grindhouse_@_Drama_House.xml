@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="A1A4DE7C-8702-4129-8A4B-1A86458BFBC2">
+  <lastEdited clientType="local-build-20080429" date="2008-04-29 19:19:03 -0400"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Grindhouse @ Drama House</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="12_Grindhouse_%40_Drama_House_files/shapeimage_1.jpg" left="0px" top="0px" width="377px" height="581px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>ll are welcome to come join in the fun of an exploitation double feature complete with action, sleaze, and badasses!&#xD;&#xD;The two films being screened back to back will be &#x201C;The Street Fighter&#x201D; (1974) starring Sonny Chiba as a man on a mission to kick ass and Jack Hill&#x2019;s &#x201C;Switchblade Sisters&#x201D; (1975) featuring hot blondes in hot pants!&#xD;&#xD;Both films will be projected on the big screen along with some choice exploitation movie trailers also from the 70s.&#xD;&#xD;See the links below for more information on each film...&#xD;&lt;a href="http://www.grindhousedatabase.com/index.php/The_Streetfighter"&gt;The Street Fighter &lt;/a&gt;(1974)&#xD;&lt;a href="http://www.grindhousedatabase.com/index.php/Switchblade_Sisters"&gt;Switchblade Sisters&lt;/a&gt; (1975)</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Grindhouse @ Drama House</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;April 12, 2008 9:00 PM&lt;/b&gt;</richText>
+  </textBox>
+</content>

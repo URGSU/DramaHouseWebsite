@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="A1A4DE7C-8702-4129-8A4B-1A86458BFBC2">
+  <lastEdited clientType="local-build-20080429" date="2008-04-29 19:18:59 -0400"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Improv Show</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="31_In_Between_the_Lines_presents_Barbecue_Pork_Javalance_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>First Improv show of the semester!&#xD;&#xD;Improv: Unscripted and unrehearsed for the first time!&#xD;&#xD;As a result of the writer's strike, IBTL has been working feverishly to bring you new material. We feel confident that this show will happen and quite possibly will even entertain some people.</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>In Between the Lines presents Barbecue Pork Javalance</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;January 31, 2008 10:00 PM&lt;/b&gt;</richText>
+  </textBox>
+</content>

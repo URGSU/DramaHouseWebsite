@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Drama House</title>
+    <link>http://sa.rochester.edu/drama/DramaHouse/News_Events/News_Events.html</link>
+    <description>Welcome to Drama House!  The Drama House is a special-interest housing group committed to the performing arts.  The House provides a unique and intimate performance space, complete with lights and sound, which has been home to University classes, student-directed plays, improv shows, Fireside Chats, parties, concerts, and many other activities. Anyone who is interested in the performing arts, from writing to acting to music-making to tech is encouraged to contact the Drama House to get involved.  Other groups looking to collaborate should also contact the House.  Anyone wanting to live in this diverse, art-centered community is encouraged to apply for admission into the House.  See below or subscribe to our RSS feed to keep up to date with events in the house.</description>
+    <generator>iWeb 2.0.3</generator>
+    <image>
+      <url>http://sa.rochester.edu/drama/DramaHouse/News_Events/News_Events_files/Picture%201.png</url>
+      <title>Drama House</title>
+      <link>http://sa.rochester.edu/drama/DramaHouse/News_Events/News_Events.html</link>
+    </image>
+    <item>
+      <title>IBTL Open Mondays and Fridays</title>
+      <link>http://sa.rochester.edu/drama/DramaHouse/News_Events/Entries/2011/IBTL Open Mondays and Fridays.html</link>
+      <guid isPermaLink="false">dc266758-95e6-434e-ad92-58f34deb8f37</guid>
+      <pubDate>Sat, 3 May 2008 21:00:41 -0400</pubDate>
+      <description>&lt;a href=&quot;http://sa.rochester.edu/drama/DramaHouse/News_Events/Entries/2011/IBTL Open Mondays and Fridays Files/IBTL.jpg&quot;&gt;&lt;img src=&quot;http://sa.rochester.edu/drama/DramaHouse/News_Events/Media/artist250_1.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:168px; height:112px;&quot;/&gt;&lt;/a&gt;IBTL Improv.&lt;br/&gt;&lt;br/&gt;IBTL.</description>
+      <enclosure url="http://sa.rochester.edu/drama/DramaHouse/News_Events/Entries/2011/IBTL Open Mondays and Fridays Files/IBTL.jpg" length="17062" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>In Between the Lines Presents The Senior Show</title>
+      <link>http://sa.rochester.edu/drama/DramaHouse/News_Events/Entries/2008/4/30_In_Between_the_Lines_Presents_The_Senior_Show.html</link>
+      <guid isPermaLink="false">ef6ef182-8aa6-4c43-b180-a13676ad0dc2</guid>
+      <pubDate>Wed, 30 Apr 2008 22:00:10 -0400</pubDate>
+      <description>&lt;a href=&quot;http://sa.rochester.edu/drama/DramaHouse/News_Events/Entries/2008/4/30_In_Between_the_Lines_Presents_The_Senior_Show_files/n16649540361_3878.jpg&quot;&gt;&lt;img src=&quot;http://sa.rochester.edu/drama/DramaHouse/News_Events/Media/n16649540361_3878_1.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:166px; height:112px;&quot;/&gt;&lt;/a&gt;Bits and Ted (2) are graduating! And Ted (1) is done with his take five... Let them make you laugh one more time before they go!</description>
+      <enclosure url="http://sa.rochester.edu/drama/DramaHouse/News_Events/Entries/2008/4/30_In_Between_the_Lines_Presents_The_Senior_Show_files/n16649540361_3878.jpg" length="17341" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>

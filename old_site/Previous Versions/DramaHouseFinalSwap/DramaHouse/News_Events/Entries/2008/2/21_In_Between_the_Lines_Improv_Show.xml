@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="A1A4DE7C-8702-4129-8A4B-1A86458BFBC2">
+  <lastEdited clientType="local-build-20080429" date="2008-04-29 19:19:00 -0400"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Improv Show</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="21_In_Between_the_Lines_Improv_Show_files/shapeimage_1.jpg" left="0px" top="0px" width="443px" height="149px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>In Between the Lines improv show, now with two new misfits!&#xD;&#xD;Come see the newly expanded In Between the Lines, now featuring newcomers Griffin Pahl and Mark Sobel.&#xD;&#xD;Thursday, February 21 in the main room at Drama House at 10:00pm.</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>In Between the Lines Improv Show</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;February 21, 2008 10:00 PM&lt;/b&gt;</richText>
+  </textBox>
+</content>

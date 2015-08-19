@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="A1A4DE7C-8702-4129-8A4B-1A86458BFBC2">
+  <lastEdited clientType="local-build-20080429" date="2008-04-29 19:19:02 -0400"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Improv Alumni Show</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="22_In_Between_the_Lines_Improv_Show_2_files/shapeimage_1.jpg" left="0px" top="0px" width="255px" height="184px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Its a celebration, y'all!&#xD;&#xD;Come out and see your favorite improv misfits from years past. &#xD;&#xD;It will be the best. That's it. &#xD;&#xD;Grab a drink, &#xD;grab a glass, &#xD;after that grab an ass.</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>In Between the Lines Misfit Alumni Show</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;March 22, 2008 8:00 PM&lt;/b&gt;</richText>
+  </textBox>
+</content>

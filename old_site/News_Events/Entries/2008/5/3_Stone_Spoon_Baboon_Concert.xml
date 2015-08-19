@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="A1A4DE7C-8702-4129-8A4B-1A86458BFBC2">
+  <lastEdited clientType="local-build-20080429" date="2008-04-29 19:19:05 -0400"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Improv: The Senior Show</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="3_Stone_Spoon_Baboon_Concert_files/shapeimage_1.jpg" left="0px" top="0px" width="259px" height="189px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Rochester band Stone Spoon Baboon will be putting on a free concert in the Drama House main room this Saturday night!  They specialize in their own blend of funk, jazz, and experimental music.&#xD;&#xD;Stone Spoon Baboon was formed in spring 2007 by Kyle Veenema (guitar/vocal), Michael Vaiana (drums), and Reilly Taylor-Cook (bass). Roger Charbonneau (hand percussion) joined the band in spring of 2008. Stone Spoon Baboon's strength draws on the diverse array of styles and backrounds each musician brings to the band, creating a new sound that ranges from funky grooves, mellow tones, to down right bizzarre compositions. The unique vibe they create is accessible to the most avid of listeners as well as those ready to party down and dance.</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Stone Spoon Baboon Concert</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;May 3, 2008 9:00 PM&lt;/b&gt;</richText>
+  </textBox>
+</content>

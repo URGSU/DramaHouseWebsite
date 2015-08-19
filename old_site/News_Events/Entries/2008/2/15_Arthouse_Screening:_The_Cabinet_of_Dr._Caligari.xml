@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="A1A4DE7C-8702-4129-8A4B-1A86458BFBC2">
+  <lastEdited clientType="local-build-20080429" date="2008-04-29 19:18:59 -0400"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>The Cabinet of Dr. Caligari</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="15_Arthouse_Screening%3A_The_Cabinet_of_Dr._Caligari_files/shapeimage_1.jpg" left="0px" top="0px" width="377px" height="505px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Coming up on Friday, February 15 at 10:30 pm is a screening of the classic silent film &lt;i&gt;The Cabinet of Dr. Caligari&lt;/i&gt;.  This film epitomizes the German Expressionist movement in its art direction and character.  It has been highly influential both in its style and its story, touching countless numbers of other artworks and films for over 80 years.  The story is centered around a murder mystery and a traveling doctor and his sideshow somnambulist.  Directed by Robert Wiene.  Released in 1920.  Starring Werner Krauss and Conrad Viedt.</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Arthouse Screening: The Cabinet of Dr. Caligari</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;February 15, 2008 10:30 PM&lt;/b&gt;</richText>
+  </textBox>
+</content>
