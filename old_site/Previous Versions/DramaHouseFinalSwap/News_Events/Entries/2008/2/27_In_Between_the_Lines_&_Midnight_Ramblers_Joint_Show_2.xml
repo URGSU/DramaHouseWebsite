@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="A1A4DE7C-8702-4129-8A4B-1A86458BFBC2">
+  <lastEdited clientType="local-build-20080429" date="2008-04-29 19:19:02 -0400"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Freaks and Geeks</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="27_In_Between_the_Lines_%26_Midnight_Ramblers_Joint_Show_2_files/shapeimage_1.jpg" left="0px" top="0px" width="481px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Freaks and Geeks, the short-lived NBC series from 1999, has gone on to gain cult status since going off the air and being released on DVD.  Coming up this week is screening of two important episodes in the series....&#xD;&#xD;Episode 4: Kim Kelly is My Friend&#xD;Wednesday, February 27 @ 10:00pm, Room 303&#xD;NBC chose not to air this episode because it dealt with with differences in issues between the lower and middles classes.  It did not air until Freaks and Geeks went into syndication after it was cancelled.&#xD;&#xD;Episode 17: The Little Things&#xD;Thursday, February 28 @ 10:00pm, Room 303&#xD;Despite being cancelled, Freaks and Geeks still garnered many awards and nominations.  One such nomination was for this episode from GLAAD, for an Outstanding TV Individual Episode (In a Series Without a Regular Gay Character).  This episode explores issues relating to a transgendered guest character.</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Freaks and Geeks Screening</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;February 27, 2008 10:00 PM&lt;/b&gt;</richText>
+  </textBox>
+</content>

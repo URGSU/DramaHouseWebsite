@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="A1A4DE7C-8702-4129-8A4B-1A86458BFBC2">
+  <lastEdited clientType="local-build-20080429" date="2008-04-29 19:19:00 -0400"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>A Family Affair Auditions</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="22_Open_Auditions_for_%E2%80%9CA_Family_Affair%E2%80%9D_files/shapeimage_1.jpg" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Interested in being a part of the upcoming comedy at Todd Theatre?&#xD;&#xD;Come to auditions, open to all interested in acting and stage managing.&#xD;&#xD;For acting, please prepare a monologue.&#xD;&#xD;Auditions will take place on Friday evening  at 7:00 and Saturday afternoon at 2:00.</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Open Auditions for &#x201C;A Family Affair&#x201D;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;February 22, 2008 7:00 PM&lt;/b&gt;</richText>
+  </textBox>
+</content>

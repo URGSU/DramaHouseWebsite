@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="A1A4DE7C-8702-4129-8A4B-1A86458BFBC2">
+  <lastEdited clientType="local-build-20080429" date="2008-04-29 19:19:01 -0400"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Drama House Applications</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="21_Apply_to_Live_in_Drama_House%21_files/shapeimage_1.jpg" left="0px" top="0px" width="299px" height="208px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Thinking about living in Drama House for the 2008-2009 academic year?&#xD;&#xD;If you are interested in being a part of a diverse and arts-oriented community, please consider Drama House to be the place for you!&#xD;&#xD;Download the house application above and hand it in to housing committee chair Martin Cozens (Room 207) by March 21st at Midnight.&#xD;&#xD;If you have any questions regarding Drama House, feel free to contact us via the email address below, or stop by the house and talk with house members at any time!&#xD;&#xD;&lt;a href="mailto%3Adramahouse%40gmail.com"&gt;dramahouse@gmail.com&lt;/a&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Apply to Live in Drama House!</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;March 21, 2008 11:59 PM&lt;/b&gt;</richText>
+  </textBox>
+</content>

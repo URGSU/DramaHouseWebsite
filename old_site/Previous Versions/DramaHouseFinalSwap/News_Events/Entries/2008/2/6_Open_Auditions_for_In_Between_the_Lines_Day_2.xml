@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="A1A4DE7C-8702-4129-8A4B-1A86458BFBC2">
+  <lastEdited clientType="local-build-20080429" date="2008-04-29 19:19:00 -0400"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Open Auditions for Improv</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="6_Open_Auditions_for_In_Between_the_Lines_Day_2_files/shapeimage_1.jpg" left="0px" top="0px" width="394px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Interested in being a part of In Between the Lines?&#xD;&#xD;Come to open auditions!&#xD;&#xD;Monday, February 4 from 10pm - Midnight&#xD;Wednesday, February 6 from 9pm - 11&#xD;&#xD;Come to either one or both days.&#xD;No need to prepare anything.</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Open Auditions for In Between the Lines Day 2</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;February 6, 2008 9:00 PM&lt;/b&gt;</richText>
+  </textBox>
+</content>
