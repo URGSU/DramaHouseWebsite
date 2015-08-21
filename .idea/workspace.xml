@@ -71,8 +71,8 @@
       <file leaf-file-name="contact_me.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mail/contact_me.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.84766585" vertical-offset="0" max-vertical-offset="465">
-              <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+            <state vertical-scroll-proportion="0.8108108" vertical-offset="15" max-vertical-offset="465">
+              <caret line="23" column="69" selection-start-line="23" selection-start-column="69" selection-end-line="23" selection-end-column="69" />
               <folding />
             </state>
           </provider>
@@ -643,7 +643,7 @@
       <workItem from="1439783164161" duration="3322000" />
       <workItem from="1439836835226" duration="158000" />
       <workItem from="1439847141718" duration="4241000" />
-      <workItem from="1440123959756" duration="5678000" />
+      <workItem from="1440123959756" duration="5866000" />
     </task>
     <task id="LOCAL-00001" summary="First edit, changed welcome message">
       <created>1435884370975</created>
@@ -987,11 +987,17 @@
       <option name="project" value="LOCAL" />
       <updated>1440130487138</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Testing PHP form even, even, even, even, even more">
+      <created>1440180702875</created>
+      <option name="number" value="00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1440180702875</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111759000" />
+    <option name="totallyTimeSpent" value="111947000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1062,7 +1068,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="Added modal open event to member images on click" />
     <MESSAGE value="Added brooke" />
     <MESSAGE value="Added sword cursor file" />
     <MESSAGE value="Added fireside chats photos" />
@@ -1087,7 +1092,8 @@
     <MESSAGE value="Testing PHP form even, even more" />
     <MESSAGE value="Testing PHP form even, even, even more" />
     <MESSAGE value="Testing PHP form even, even, even, even more" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testing PHP form even, even, even, even more" />
+    <MESSAGE value="Testing PHP form even, even, even, even, even more" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing PHP form even, even, even, even, even more" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1516,8 +1522,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mail/contact_me.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.84766585" vertical-offset="0" max-vertical-offset="465">
-          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        <state vertical-scroll-proportion="0.8108108" vertical-offset="15" max-vertical-offset="465">
+          <caret line="23" column="69" selection-start-line="23" selection-start-column="69" selection-end-line="23" selection-end-column="69" />
           <folding />
         </state>
       </provider>
