@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7202e60f-a6fd-402f-8447-3b93b04fc3e2" name="Default" comment="Fixed mobile hosted events img">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    <list default="true" id="7202e60f-a6fd-402f-8447-3b93b04fc3e2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Drama House Website.iws" />
@@ -39,8 +38,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4054054" vertical-offset="1455" max-vertical-offset="15255">
-              <caret line="108" column="402" selection-start-line="108" selection-start-column="402" selection-end-line="108" selection-end-column="402" />
+            <state vertical-scroll-proportion="0.66339064" vertical-offset="1860" max-vertical-offset="15255">
+              <caret line="142" column="22" selection-start-line="142" selection-start-column="22" selection-end-line="142" selection-end-column="22" />
               <folding>
                 <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#1;n#p#0;n#div#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -694,7 +693,7 @@
       <workItem from="1439847141718" duration="4241000" />
       <workItem from="1440123959756" duration="7685000" />
       <workItem from="1440186556993" duration="6033000" />
-      <workItem from="1440221886155" duration="18907000" />
+      <workItem from="1440221886155" duration="19487000" />
     </task>
     <task id="LOCAL-00001" summary="First edit, changed welcome message">
       <created>1435884370975</created>
@@ -1302,11 +1301,17 @@
       <option name="project" value="LOCAL" />
       <updated>1440279685211</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="Made google maps open to Drama House">
+      <created>1440282013125</created>
+      <option name="number" value="00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1440282013125</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="138706000" />
+    <option name="totallyTimeSpent" value="139286000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1377,7 +1382,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="Added About Us to recruitment section" />
     <MESSAGE value="Edited About Us" />
     <MESSAGE value="Styled Recruitment section, made fb like pretty" />
     <MESSAGE value="Added padding to application button" />
@@ -1402,7 +1406,8 @@
     <MESSAGE value="Trying to fix hosted events img mobile moreso again" />
     <MESSAGE value="Trying to fix hosted events img mobile moreso moreso" />
     <MESSAGE value="Fixed mobile hosted events img" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed mobile hosted events img" />
+    <MESSAGE value="Made google maps open to Drama House" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made google maps open to Drama House" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1797,8 +1802,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4054054" vertical-offset="1455" max-vertical-offset="15255">
-          <caret line="108" column="402" selection-start-line="108" selection-start-column="402" selection-end-line="108" selection-end-column="402" />
+        <state vertical-scroll-proportion="0.66339064" vertical-offset="1860" max-vertical-offset="15255">
+          <caret line="142" column="22" selection-start-line="142" selection-start-column="22" selection-end-line="142" selection-end-column="22" />
           <folding>
             <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#1;n#p#0;n#div#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
