@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7202e60f-a6fd-402f-8447-3b93b04fc3e2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/agency.css" afterPath="$PROJECT_DIR$/css/agency.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Drama House Website.iws" />
@@ -36,11 +36,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.5588236" vertical-offset="3569" max-vertical-offset="15135">
-              <caret line="245" column="30" selection-start-line="245" selection-start-column="30" selection-end-line="245" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.33333334" vertical-offset="3569" max-vertical-offset="15135">
+              <caret line="246" column="1093" selection-start-line="246" selection-start-column="1093" selection-end-line="246" selection-end-column="1093" />
               <folding>
                 <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -119,10 +119,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="agency.less" pinned="false" current-in-tab="true">
+      <file leaf-file-name="agency.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/less/agency.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7444717" vertical-offset="10737" max-vertical-offset="11805">
+            <state vertical-scroll-proportion="-12.625" vertical-offset="10737" max-vertical-offset="11805">
               <caret line="736" column="30" selection-start-line="736" selection-start-column="30" selection-end-line="736" selection-end-column="30" />
               <folding />
             </state>
@@ -167,8 +167,8 @@
         <option value="$PROJECT_DIR$/less/variables.less" />
         <option value="$PROJECT_DIR$/js/agency.js" />
         <option value="$PROJECT_DIR$/mail/contact_me.php" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/less/agency.less" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -723,7 +723,7 @@
       <workItem from="1439836835226" duration="158000" />
       <workItem from="1439847141718" duration="4241000" />
       <workItem from="1440123959756" duration="7685000" />
-      <workItem from="1440186556993" duration="5249000" />
+      <workItem from="1440186556993" duration="5873000" />
     </task>
     <task id="LOCAL-00001" summary="First edit, changed welcome message">
       <created>1435884370975</created>
@@ -1115,11 +1115,17 @@
       <option name="project" value="LOCAL" />
       <updated>1440214873030</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Made hosted events bg center center in build">
+      <created>1440215118236</created>
+      <option name="number" value="00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1440215118236</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="119015000" />
+    <option name="totallyTimeSpent" value="119639000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1190,7 +1196,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="Edited facebook configs" />
     <MESSAGE value="Capitalized Facebook description" />
     <MESSAGE value="Edited Facebook configs" />
     <MESSAGE value="Added Meredith, and fixed screen-size responsiveness by making Charlie's photos the same size as all the other photos and by adding padding to one of the shorter logos" />
@@ -1215,7 +1220,8 @@
     <MESSAGE value="Made hosted events bg-size cover" />
     <MESSAGE value="Made hosted events bg no-repeat" />
     <MESSAGE value="Made hosted events bg center center" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made hosted events bg center center" />
+    <MESSAGE value="Made hosted events bg center center in build" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made hosted events bg center center in build" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1607,10 +1613,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/less/agency.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.625" vertical-offset="10737" max-vertical-offset="11805">
+          <caret line="736" column="30" selection-start-line="736" selection-start-column="30" selection-end-line="736" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.5588236" vertical-offset="3569" max-vertical-offset="15135">
-          <caret line="245" column="30" selection-start-line="245" selection-start-column="30" selection-end-line="245" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="3569" max-vertical-offset="15135">
+          <caret line="246" column="1093" selection-start-line="246" selection-start-column="1093" selection-end-line="246" selection-end-column="1093" />
           <folding>
             <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1624,14 +1638,6 @@
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#aside#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less/agency.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7444717" vertical-offset="10737" max-vertical-offset="11805">
-          <caret line="736" column="30" selection-start-line="736" selection-start-column="30" selection-end-line="736" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
