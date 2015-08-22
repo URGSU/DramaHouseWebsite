@@ -85,34 +85,34 @@ $(document).ready(function () {
     });
 
     //iFrame responsiveness for mobile
-    var ratio;
-    if($(window).width()>970){
-        ratio = 1/3;
-    }
-    else if($(window).width()>700){
-        ratio = 3/7
-    }
-    else{
-        ratio = 4/5;
-    }
-    $('.resizeIFrame')
-        .attr('width', ratio*$(window).width())
-        .attr('height', (315/560)*(ratio*$(window).width()));
-    $(window).resize(function () {
-        console.log($(window).width());
-        var ratio;
-        if($(window).width()>970){
-            ratio = 1/3;
-        }
-        else if($(window).width()>700){
-            ratio = 3/7
-        }
-        else{
-            ratio = 4/5;
-        }
-        $('.resizeIFrame').attr('width', ratio*$(window).width())
-            .attr('height', (315/560)*(ratio*$(window).width()));
-    });
+    //var ratio;
+    //if($(window).width()>970){
+    //    ratio = 1/3;
+    //}
+    //else if($(window).width()>700){
+    //    ratio = 3/7
+    //}
+    //else{
+    //    ratio = 4/5;
+    //}
+    //$('.resizeIFrame')
+    //    .attr('width', ratio*$(window).width())
+    //    .attr('height', (315/560)*(ratio*$(window).width()));
+    //$(window).resize(function () {
+    //    console.log($(window).width());
+    //    var ratio;
+    //    if($(window).width()>970){
+    //        ratio = 1/3;
+    //    }
+    //    else if($(window).width()>700){
+    //        ratio = 3/7
+    //    }
+    //    else{
+    //        ratio = 4/5;
+    //    }
+    //    $('.resizeIFrame').attr('width', ratio*$(window).width())
+    //        .attr('height', (315/560)*(ratio*$(window).width()));
+    //});
 });
 
 
