@@ -84,35 +84,58 @@ $(document).ready(function () {
         }
     });
 
-    //iFrame responsiveness for mobile
-    //var ratio;
-    //if($(window).width()>970){
-    //    ratio = 1/3;
-    //}
-    //else if($(window).width()>700){
-    //    ratio = 3/7
-    //}
-    //else{
-    //    ratio = 4/5;
-    //}
-    //$('.resizeIFrame')
-    //    .attr('width', ratio*$(window).width())
-    //    .attr('height', (315/560)*(ratio*$(window).width()));
-    //$(window).resize(function () {
-    //    console.log($(window).width());
-    //    var ratio;
-    //    if($(window).width()>970){
-    //        ratio = 1/3;
-    //    }
-    //    else if($(window).width()>700){
-    //        ratio = 3/7
-    //    }
-    //    else{
-    //        ratio = 4/5;
-    //    }
-    //    $('.resizeIFrame').attr('width', ratio*$(window).width())
-    //        .attr('height', (315/560)*(ratio*$(window).width()));
-    //});
+    //recruitment responsiveness for mobile
+
+    if($(window).width()<992) {
+        $('.resizeRecruitmentVideo')
+            .css({'margin': '30px 0 0'});
+        $('.resizeRecruitmentButton')
+            .css('margin-top', -30);
+        $('.service-heading')
+            .css({'margin': '0'});
+    }
+    else if($(window).width()<1200){
+        $('.resizeRecruitmentButton')
+            .css('margin-top', 0);
+        $('.service-heading')
+            .css({'margin': '0'});
+        $('.resizeRecruitmentVideo')
+            .css({'margin': '0'});
+    }
+    else{
+        $('.resizeRecruitmentButton')
+            .css('margin-top', 30);
+        $('.service-heading')
+            .css({'margin': '30px 0 20px'});
+        $('.resizeRecruitmentVideo')
+            .css({'margin': '0'});
+    }
+    $(window).resize(function () {
+        if($(window).width()<992) {
+            $('.resizeRecruitmentVideo')
+                .css({'margin': '30px 0 0'});
+            $('.resizeRecruitmentButton')
+                .css('margin-top', -30);
+            $('.service-heading')
+                .css({'margin': '0'});
+        }
+        else if($(window).width()<1200){
+            $('.resizeRecruitmentButton')
+                .css('margin-top', 0);
+            $('.service-heading')
+                .css({'margin': '0'});
+            $('.resizeRecruitmentVideo')
+                .css({'margin': '0'});
+        }
+        else{
+            $('.resizeRecruitmentButton')
+                .css('margin-top', 30);
+            $('.service-heading')
+                .css({'margin': '30px 0 20px'});
+            $('.resizeRecruitmentVideo')
+                .css({'margin': '0'});
+        }
+    });
 });
 
 
