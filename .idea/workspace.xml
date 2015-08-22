@@ -79,8 +79,8 @@
       <file leaf-file-name="agency.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/agency.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="394" max-vertical-offset="1320">
-              <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1320">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -89,8 +89,8 @@
       <file leaf-file-name="agency.less" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/less/agency.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.49081364" vertical-offset="11483" max-vertical-offset="12525">
-              <caret line="778" column="32" selection-start-line="778" selection-start-column="32" selection-end-line="778" selection-end-column="32" />
+            <state vertical-scroll-proportion="0.6089239" vertical-offset="11528" max-vertical-offset="12615">
+              <caret line="784" column="32" selection-start-line="784" selection-start-column="32" selection-end-line="784" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -695,7 +695,7 @@
       <workItem from="1439847141718" duration="4241000" />
       <workItem from="1440123959756" duration="7685000" />
       <workItem from="1440186556993" duration="6033000" />
-      <workItem from="1440221886155" duration="15936000" />
+      <workItem from="1440221886155" duration="16722000" />
     </task>
     <task id="LOCAL-00001" summary="First edit, changed welcome message">
       <created>1435884370975</created>
@@ -1219,11 +1219,17 @@
       <option name="project" value="LOCAL" />
       <updated>1440276532546</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="Undid hosting events img changes">
+      <created>1440276793197</created>
+      <option name="number" value="00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1440276793197</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135735000" />
+    <option name="totallyTimeSpent" value="136521000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1294,7 +1300,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="Made hosted events bg no-repeat" />
     <MESSAGE value="Made hosted events bg center center" />
     <MESSAGE value="Made hosted events bg center center in build" />
     <MESSAGE value="Added links to hosted events" />
@@ -1319,7 +1324,8 @@
     <MESSAGE value="Trying to fix hosting events img" />
     <MESSAGE value="Trying to fix hosting events img again" />
     <MESSAGE value="Trying to fix hosting events img more" />
-    <option name="LAST_COMMIT_MESSAGE" value="Trying to fix hosting events img more" />
+    <MESSAGE value="Undid hosting events img changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Undid hosting events img changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1696,14 +1702,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/agency.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="394" max-vertical-offset="1320">
-          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="15255">
@@ -1727,10 +1725,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/agency.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1320">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/less/agency.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49081364" vertical-offset="11483" max-vertical-offset="12525">
-          <caret line="778" column="32" selection-start-line="778" selection-start-column="32" selection-end-line="778" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.6089239" vertical-offset="11528" max-vertical-offset="12615">
+          <caret line="784" column="32" selection-start-line="784" selection-start-column="32" selection-end-line="784" selection-end-column="32" />
           <folding />
         </state>
       </provider>
