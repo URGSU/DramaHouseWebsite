@@ -3,8 +3,6 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
-var hgt = $(window).height();
-$(".hosted-events").css("height", hgt)
 
 // jQuery for page scrolling feature - requires jQuery Easing plugin
 $(function() {
