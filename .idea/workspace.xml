@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7202e60f-a6fd-402f-8447-3b93b04fc3e2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/agency.css" afterPath="$PROJECT_DIR$/css/agency.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/agency.less" afterPath="$PROJECT_DIR$/less/agency.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -89,8 +88,8 @@
       <file leaf-file-name="agency.less" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/less/agency.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.53018373" vertical-offset="11873" max-vertical-offset="12825">
-              <caret line="805" column="24" selection-start-line="805" selection-start-column="24" selection-end-line="805" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.7664042" vertical-offset="11753" max-vertical-offset="12825">
+              <caret line="803" column="16" selection-start-line="803" selection-start-column="16" selection-end-line="803" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -695,7 +694,7 @@
       <workItem from="1439847141718" duration="4241000" />
       <workItem from="1440123959756" duration="7685000" />
       <workItem from="1440186556993" duration="6033000" />
-      <workItem from="1440221886155" duration="17780000" />
+      <workItem from="1440221886155" duration="17861000" />
     </task>
     <task id="LOCAL-00001" summary="First edit, changed welcome message">
       <created>1435884370975</created>
@@ -1261,11 +1260,17 @@
       <option name="project" value="LOCAL" />
       <updated>1440278930215</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="Trying to fix hosted events img mobile moreso moreso">
+      <created>1440278993341</created>
+      <option name="number" value="00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1440278993342</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137579000" />
+    <option name="totallyTimeSpent" value="137660000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1771,8 +1776,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/less/agency.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.53018373" vertical-offset="11873" max-vertical-offset="12825">
-          <caret line="805" column="24" selection-start-line="805" selection-start-column="24" selection-end-line="805" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.7664042" vertical-offset="11753" max-vertical-offset="12825">
+          <caret line="803" column="16" selection-start-line="803" selection-start-column="16" selection-end-line="803" selection-end-column="16" />
           <folding />
         </state>
       </provider>
