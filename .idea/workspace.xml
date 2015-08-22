@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7202e60f-a6fd-402f-8447-3b93b04fc3e2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/agency.css" afterPath="$PROJECT_DIR$/css/agency.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/agency.less" afterPath="$PROJECT_DIR$/less/agency.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -124,7 +123,7 @@
         <entry file="file://$PROJECT_DIR$/less/agency.less">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.63390666" vertical-offset="10737" max-vertical-offset="11805">
-              <caret line="733" column="120" selection-start-line="733" selection-start-column="120" selection-end-line="733" selection-end-column="120" />
+              <caret line="733" column="139" selection-start-line="733" selection-start-column="139" selection-end-line="733" selection-end-column="139" />
               <folding />
             </state>
           </provider>
@@ -724,7 +723,7 @@
       <workItem from="1439836835226" duration="158000" />
       <workItem from="1439847141718" duration="4241000" />
       <workItem from="1440123959756" duration="7685000" />
-      <workItem from="1440186556993" duration="4988000" />
+      <workItem from="1440186556993" duration="5068000" />
     </task>
     <task id="LOCAL-00001" summary="First edit, changed welcome message">
       <created>1435884370975</created>
@@ -1104,11 +1103,17 @@
       <option name="project" value="LOCAL" />
       <updated>1440214706249</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Made hosted events bg no-repeat">
+      <created>1440214794096</created>
+      <option name="number" value="00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1440214794108</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="118754000" />
+    <option name="totallyTimeSpent" value="118834000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1179,7 +1184,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="Added matt" />
     <MESSAGE value="Changed contact buttons, added facebook configurations" />
     <MESSAGE value="Edited facebook configs" />
     <MESSAGE value="Capitalized Facebook description" />
@@ -1204,7 +1208,8 @@
     <MESSAGE value="Added events images" />
     <MESSAGE value="Created hosted events section and made bg images darker via css" />
     <MESSAGE value="Made hosted events bg-size cover" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made hosted events bg-size cover" />
+    <MESSAGE value="Made hosted events bg no-repeat" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made hosted events bg no-repeat" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1619,7 +1624,7 @@
     <entry file="file://$PROJECT_DIR$/less/agency.less">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.63390666" vertical-offset="10737" max-vertical-offset="11805">
-          <caret line="733" column="120" selection-start-line="733" selection-start-column="120" selection-end-line="733" selection-end-column="120" />
+          <caret line="733" column="139" selection-start-line="733" selection-start-column="139" selection-end-line="733" selection-end-column="139" />
           <folding />
         </state>
       </provider>
