@@ -783,25 +783,38 @@ ul.social-buttons {
   color: #FFF;
   @media screen and (min-device-width: 1024px){
 	background-attachment: fixed;
+	.content {
+	  margin:0 10% 0;
+	  p {
+		font-size: 20px;
+		em {
+		  color: @brand-primary;
+		}
+	  }
+	  h2 {
+		color: @brand-primary;
+		margin-bottom: 50px;
+	  }
+	}
   }
   @media screen and (max-device-width: 1024px){
 	background-attachment: scroll;
+	.content {
+	  margin:0 10% 0;
+	  p {
+		font-size: 10px;
+		em {
+		  color: @brand-primary;
+		}
+	  }
+	  h2 {
+		color: @brand-primary;
+		margin-bottom: 50px;
+	  }
+	}
   }
 //  height: 100%;
 //  border: 2px solid #e7e7e7;
-  .content {
-	  margin:0 10% 0;
-	p {
-	  font-size: 20px;
-	  em {
-		color: @brand-primary;
-	  }
-	}
-	h2 {
-	  color: @brand-primary;
-	  margin-bottom: 50px;
-	}
-  }
 }
 
 // Highlight Color Customization

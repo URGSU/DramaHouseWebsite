@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7202e60f-a6fd-402f-8447-3b93b04fc3e2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/agency.css" afterPath="$PROJECT_DIR$/css/agency.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/agency.less" afterPath="$PROJECT_DIR$/less/agency.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -89,8 +88,8 @@
       <file leaf-file-name="agency.less" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/less/agency.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6089239" vertical-offset="11528" max-vertical-offset="12615">
-              <caret line="784" column="32" selection-start-line="784" selection-start-column="32" selection-end-line="784" selection-end-column="32" />
+            <state vertical-scroll-proportion="0.5695538" vertical-offset="12008" max-vertical-offset="12810">
+              <caret line="815" column="17" selection-start-line="815" selection-start-column="17" selection-end-line="815" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -695,7 +694,7 @@
       <workItem from="1439847141718" duration="4241000" />
       <workItem from="1440123959756" duration="7685000" />
       <workItem from="1440186556993" duration="6033000" />
-      <workItem from="1440221886155" duration="16722000" />
+      <workItem from="1440221886155" duration="17336000" />
     </task>
     <task id="LOCAL-00001" summary="First edit, changed welcome message">
       <created>1435884370975</created>
@@ -1225,11 +1224,17 @@
       <option name="project" value="LOCAL" />
       <updated>1440276793197</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="Trying to fix hosted events img mobile">
+      <created>1440277833998</created>
+      <option name="number" value="00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1440277833999</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="136521000" />
+    <option name="totallyTimeSpent" value="137135000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1300,7 +1305,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="Made hosted events bg center center" />
     <MESSAGE value="Made hosted events bg center center in build" />
     <MESSAGE value="Added links to hosted events" />
     <MESSAGE value="Added links to hosted events build" />
@@ -1325,7 +1329,8 @@
     <MESSAGE value="Trying to fix hosting events img again" />
     <MESSAGE value="Trying to fix hosting events img more" />
     <MESSAGE value="Undid hosting events img changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Undid hosting events img changes" />
+    <MESSAGE value="Trying to fix hosted events img mobile" />
+    <option name="LAST_COMMIT_MESSAGE" value="Trying to fix hosted events img mobile" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1735,8 +1740,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/less/agency.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6089239" vertical-offset="11528" max-vertical-offset="12615">
-          <caret line="784" column="32" selection-start-line="784" selection-start-column="32" selection-end-line="784" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.5695538" vertical-offset="12008" max-vertical-offset="12810">
+          <caret line="815" column="17" selection-start-line="815" selection-start-column="17" selection-end-line="815" selection-end-column="17" />
           <folding />
         </state>
       </provider>
