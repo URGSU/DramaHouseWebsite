@@ -162,10 +162,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 header {
-  background-image: url('../img/build/header-bg.jpg');
-  background-repeat: none;
-  background-attachment: scroll;
-  background-position: center center;
+//  background: url('../img/build/header-bg-new.jpg') no-repeat scroll center center;
+  background: -moz-linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../img/build/header-bg-new.jpg') no-repeat scroll center center; /* FF3.6+ */
+  background: -webkit-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../img/build/header-bg-new.jpg') no-repeat scroll center center; /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../img/build/header-bg-new.jpg') no-repeat scroll center center; /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../img/build/header-bg-new.jpg') no-repeat scroll center center; /* Opera 11.10+ */
+  background: -ms-linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../img/build/header-bg-new.jpg') no-repeat scroll center center; /* IE10+ */
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../img/build/header-bg-new.jpg') no-repeat scroll center center; /* W3C */
+
   .background-cover;
   text-align: center;
   color: white;
@@ -720,6 +724,30 @@ ul.social-buttons {
   }
 }
 
+.hosted-events {
+  padding: 150px 0;
+  background: -moz-linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/build/drama-center-2.jpg') fixed; /* FF3.6+ */
+  background: -webkit-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/build/drama-center-2.jpg') fixed; /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/build/drama-center-2.jpg') fixed; /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/build/drama-center-2.jpg') fixed; /* Opera 11.10+ */
+  background: -ms-linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/build/drama-center-2.jpg') fixed; /* IE10+ */
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/build/drama-center-2.jpg') fixed; /* W3C */
+  color: #FFF;
+//  border: 2px solid #e7e7e7;
+  .content {
+	  margin:0 10% 0;
+	p {
+	  font-size: 20px;
+	  em {
+		color: @brand-primary;
+	  }
+	}
+	h2 {
+	  color: @brand-primary;
+	  margin-bottom: 50px;
+	}
+  }
+}
 
 // Highlight Color Customization
 
