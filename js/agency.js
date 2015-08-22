@@ -83,59 +83,6 @@ $(document).ready(function () {
             $(this).attr('alt', alt);
         }
     });
-
-    //recruitment responsiveness for mobile
-
-    if($(window).width()<992) {
-        $('.resizeRecruitmentVideo')
-            .css({'margin': '30px 0 0'});
-        $('.resizeRecruitmentButton')
-            .css('margin-top', -30);
-        $('.service-heading')
-            .css({'margin': '0'});
-    }
-    else if($(window).width()<1200){
-        $('.resizeRecruitmentButton')
-            .css('margin-top', 0);
-        $('.service-heading')
-            .css({'margin': '0'});
-        $('.resizeRecruitmentVideo')
-            .css({'margin': '0'});
-    }
-    else{
-        $('.resizeRecruitmentButton')
-            .css('margin-top', 30);
-        $('.service-heading')
-            .css({'margin': '30px 0 20px'});
-        $('.resizeRecruitmentVideo')
-            .css({'margin': '0'});
-    }
-    $(window).resize(function () {
-        if($(window).width()<992) {
-            $('.resizeRecruitmentVideo')
-                .css({'margin': '30px 0 0'});
-            $('.resizeRecruitmentButton')
-                .css('margin-top', -30);
-            $('.service-heading')
-                .css({'margin': '0'});
-        }
-        else if($(window).width()<1200){
-            $('.resizeRecruitmentButton')
-                .css('margin-top', 0);
-            $('.service-heading')
-                .css({'margin': '0'});
-            $('.resizeRecruitmentVideo')
-                .css({'margin': '0'});
-        }
-        else{
-            $('.resizeRecruitmentButton')
-                .css('margin-top', 30);
-            $('.service-heading')
-                .css({'margin': '30px 0 20px'});
-            $('.resizeRecruitmentVideo')
-                .css({'margin': '0'});
-        }
-    });
 });
 
 
