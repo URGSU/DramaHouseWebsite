@@ -88,8 +88,8 @@
       <file leaf-file-name="agency.less" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/less/agency.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45144358" vertical-offset="11483" max-vertical-offset="12525">
-              <caret line="777" column="125" selection-start-line="777" selection-start-column="125" selection-end-line="777" selection-end-column="125" />
+            <state vertical-scroll-proportion="0.5695538" vertical-offset="11483" max-vertical-offset="12525">
+              <caret line="780" column="26" selection-start-line="780" selection-start-column="26" selection-end-line="780" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -694,7 +694,7 @@
       <workItem from="1439847141718" duration="4241000" />
       <workItem from="1440123959756" duration="7685000" />
       <workItem from="1440186556993" duration="6033000" />
-      <workItem from="1440221886155" duration="15463000" />
+      <workItem from="1440221886155" duration="15691000" />
     </task>
     <task id="LOCAL-00001" summary="First edit, changed welcome message">
       <created>1435884370975</created>
@@ -1206,11 +1206,17 @@
       <option name="project" value="LOCAL" />
       <updated>1440275726034</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="Trying to fix hosting events img again">
+      <created>1440276273503</created>
+      <option name="number" value="00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1440276273503</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135262000" />
+    <option name="totallyTimeSpent" value="135490000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1281,7 +1287,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="Created hosted events section and made bg images darker via css" />
     <MESSAGE value="Made hosted events bg-size cover" />
     <MESSAGE value="Made hosted events bg no-repeat" />
     <MESSAGE value="Made hosted events bg center center" />
@@ -1306,7 +1311,8 @@
     <MESSAGE value="Trying to fix hosted events image on mobile again AGAIN" />
     <MESSAGE value="Undid hosted events changes" />
     <MESSAGE value="Trying to fix hosting events img" />
-    <option name="LAST_COMMIT_MESSAGE" value="Trying to fix hosting events img" />
+    <MESSAGE value="Trying to fix hosting events img again" />
+    <option name="LAST_COMMIT_MESSAGE" value="Trying to fix hosting events img again" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1716,8 +1722,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/less/agency.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45144358" vertical-offset="11483" max-vertical-offset="12525">
-          <caret line="777" column="125" selection-start-line="777" selection-start-column="125" selection-end-line="777" selection-end-column="125" />
+        <state vertical-scroll-proportion="0.5695538" vertical-offset="11483" max-vertical-offset="12525">
+          <caret line="780" column="26" selection-start-line="780" selection-start-column="26" selection-end-line="780" selection-end-column="26" />
           <folding />
         </state>
       </provider>
