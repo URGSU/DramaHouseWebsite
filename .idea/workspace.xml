@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7202e60f-a6fd-402f-8447-3b93b04fc3e2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    <list default="true" id="7202e60f-a6fd-402f-8447-3b93b04fc3e2" name="Default" comment="Added links to hosted events build">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Drama House Website.iws" />
@@ -723,7 +722,7 @@
       <workItem from="1439836835226" duration="158000" />
       <workItem from="1439847141718" duration="4241000" />
       <workItem from="1440123959756" duration="7685000" />
-      <workItem from="1440186556993" duration="5873000" />
+      <workItem from="1440186556993" duration="5932000" />
     </task>
     <task id="LOCAL-00001" summary="First edit, changed welcome message">
       <created>1435884370975</created>
@@ -1121,11 +1120,17 @@
       <option name="project" value="LOCAL" />
       <updated>1440215118236</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Added links to hosted events">
+      <created>1440216400379</created>
+      <option name="number" value="00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1440216400380</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="119639000" />
+    <option name="totallyTimeSpent" value="119698000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1196,7 +1201,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="Capitalized Facebook description" />
     <MESSAGE value="Edited Facebook configs" />
     <MESSAGE value="Added Meredith, and fixed screen-size responsiveness by making Charlie's photos the same size as all the other photos and by adding padding to one of the shorter logos" />
     <MESSAGE value="Added Brian, slightly increased bio modal max-height" />
@@ -1221,7 +1225,8 @@
     <MESSAGE value="Made hosted events bg no-repeat" />
     <MESSAGE value="Made hosted events bg center center" />
     <MESSAGE value="Made hosted events bg center center in build" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made hosted events bg center center in build" />
+    <MESSAGE value="Added links to hosted events" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added links to hosted events" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
