@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7202e60f-a6fd-402f-8447-3b93b04fc3e2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/agency.less" afterPath="$PROJECT_DIR$/less/agency.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Drama House Website.iws" />
@@ -35,10 +36,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.66339064" vertical-offset="1860" max-vertical-offset="15255">
+            <state vertical-scroll-proportion="369.375" vertical-offset="10995" max-vertical-offset="15255">
               <caret line="142" column="22" selection-start-line="142" selection-start-column="22" selection-end-line="142" selection-end-column="22" />
               <folding>
                 <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -84,11 +85,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="agency.less" pinned="false" current-in-tab="false">
+      <file leaf-file-name="agency.less" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/less/agency.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.94" vertical-offset="11468" max-vertical-offset="12825">
-              <caret line="781" column="14" selection-start-line="781" selection-start-column="14" selection-end-line="781" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.49081364" vertical-offset="8423" max-vertical-offset="12825">
+              <caret line="574" column="7" selection-start-line="574" selection-start-column="7" selection-end-line="574" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -122,8 +123,8 @@
         <option value="$PROJECT_DIR$/less/variables.less" />
         <option value="$PROJECT_DIR$/mail/contact_me.php" />
         <option value="$PROJECT_DIR$/js/agency.js" />
-        <option value="$PROJECT_DIR$/less/agency.less" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/less/agency.less" />
       </list>
     </option>
   </component>
@@ -693,7 +694,7 @@
       <workItem from="1439847141718" duration="4241000" />
       <workItem from="1440123959756" duration="7685000" />
       <workItem from="1440186556993" duration="6033000" />
-      <workItem from="1440221886155" duration="19487000" />
+      <workItem from="1440221886155" duration="19705000" />
     </task>
     <task id="LOCAL-00001" summary="First edit, changed welcome message">
       <created>1435884370975</created>
@@ -1307,11 +1308,17 @@
       <option name="project" value="LOCAL" />
       <updated>1440282013125</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="Pushing">
+      <created>1440283209159</created>
+      <option name="number" value="00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1440283209160</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="139286000" />
+    <option name="totallyTimeSpent" value="139504000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1382,7 +1389,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="Edited About Us" />
     <MESSAGE value="Styled Recruitment section, made fb like pretty" />
     <MESSAGE value="Added padding to application button" />
     <MESSAGE value="Added margin-top to application button" />
@@ -1407,7 +1413,8 @@
     <MESSAGE value="Trying to fix hosted events img mobile moreso moreso" />
     <MESSAGE value="Fixed mobile hosted events img" />
     <MESSAGE value="Made google maps open to Drama House" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made google maps open to Drama House" />
+    <MESSAGE value="Pushing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pushing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1792,17 +1799,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/less/agency.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.94" vertical-offset="11468" max-vertical-offset="12825">
-          <caret line="781" column="14" selection-start-line="781" selection-start-column="14" selection-end-line="781" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.66339064" vertical-offset="1860" max-vertical-offset="15255">
+        <state vertical-scroll-proportion="369.375" vertical-offset="10995" max-vertical-offset="15255">
           <caret line="142" column="22" selection-start-line="142" selection-start-column="22" selection-end-line="142" selection-end-column="22" />
           <folding>
             <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1820,6 +1819,14 @@
             <element signature="n#style#0;n#a#0;n#span#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/agency.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49081364" vertical-offset="8423" max-vertical-offset="12825">
+          <caret line="574" column="7" selection-start-line="574" selection-start-column="7" selection-end-line="574" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
