@@ -56,8 +56,6 @@ $('#allMembers').on('shown.bs.collapse', function() {
     });
 });
 
-new WOW().init();
-
 // Highlight the top nav as scrolling occurs
 $('body').scrollspy({
     target: '.navbar-fixed-top'
