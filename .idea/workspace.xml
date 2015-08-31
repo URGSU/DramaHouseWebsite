@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7202e60f-a6fd-402f-8447-3b93b04fc3e2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/agency.js" afterPath="$PROJECT_DIR$/js/agency.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Drama House Website.iws" />
@@ -107,8 +108,8 @@
       <file leaf-file-name="agency.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/agency.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8005319" vertical-offset="1034" max-vertical-offset="1560">
-              <caret line="89" column="9" selection-start-line="89" selection-start-column="9" selection-end-line="89" selection-end-column="9" />
+            <state vertical-scroll-proportion="0.19946809" vertical-offset="1035" max-vertical-offset="1560">
+              <caret line="74" column="25" selection-start-line="74" selection-start-column="25" selection-end-line="74" selection-end-column="25" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -775,7 +776,7 @@
       <workItem from="1440775987079" duration="128000" />
       <workItem from="1440780891035" duration="2046000" />
       <workItem from="1440905828170" duration="313000" />
-      <workItem from="1441048237330" duration="3407000" />
+      <workItem from="1441048237330" duration="3794000" />
     </task>
     <task id="LOCAL-00001" summary="First edit, changed welcome message">
       <created>1435884370975</created>
@@ -1473,11 +1474,17 @@
       <option name="project" value="LOCAL" />
       <updated>1441052666630</updated>
     </task>
-    <option name="localTasksCounter" value="117" />
+    <task id="LOCAL-00117" summary="Added Mike, better organized lotr code, and added jump scare feature">
+      <created>1441052797806</created>
+      <option name="number" value="00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1441052797806</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="156220000" />
+    <option name="totallyTimeSpent" value="156607000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1992,8 +1999,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/agency.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8005319" vertical-offset="1034" max-vertical-offset="1560">
-          <caret line="89" column="9" selection-start-line="89" selection-start-column="9" selection-end-line="89" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.19946809" vertical-offset="1035" max-vertical-offset="1560">
+          <caret line="74" column="25" selection-start-line="74" selection-start-column="25" selection-end-line="74" selection-end-column="25" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

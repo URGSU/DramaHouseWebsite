@@ -66,7 +66,7 @@ $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
 
-$(document).ready(function () {
+$(function () {
     var that;
     var src;
     var alt;
