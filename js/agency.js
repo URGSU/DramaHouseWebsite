@@ -67,19 +67,31 @@ $('.navbar-collapse ul li a').click(function() {
 });
 
 $(document).ready(function () {
+    var that;
+    var src;
+    var alt;
+    var jumpScareTimeout;
+
     //lord of the rings photo
-    $('.lotr').hover(function () {
-        if($(this).attr("alt")) {
-            var src = $(this).attr("src");
-            $(this).attr('src', $(this).attr("alt"));
-            $(this).attr('alt', src);
+    $('.lotr').mouseenter(function() {
+        that = $(this);
+        src = that.attr('src');
+        alt = that.attr('alt');
+
+        if(alt){
+            that.attr('src', alt);
+            that.attr('alt', src);
         }
-    }).mouseout(function () {
-        if($(this).attr("alt")) {
-            var alt = $(this).attr("alt");
-            $(this).attr('src', $(this).attr("src"));
-            $(this).attr('alt', alt);
+
+        if(that.hasClass('jump-scare')){
+            jumpScareTimeout = setTimeout(function () {
+                that.attr('src', 'img/build/team/jump-scare.jpg');
+            }, 3000);
         }
+    }).mouseout(function() {
+        clearTimeout(jumpScareTimeout);
+        that.attr('src', src);
+        that.attr('alt', alt);
     });
 });
 
