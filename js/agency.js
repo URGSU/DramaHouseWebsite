@@ -66,13 +66,13 @@ $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
 
+//lord of the rings photo controller
 $(function () {
     var that;
     var src;
     var alt;
     var jumpScareTimeout;
 
-    //lord of the rings photo
     $('.lotr').mouseenter(function() {
         that = $(this);
         src = that.attr('src');
