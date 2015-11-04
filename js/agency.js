@@ -4,7 +4,7 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-// jQuery for page scrolling feature - requires jQuery Easing plugin
+// jQuery for page scrolling feature - requires jQuery Easing plugin, and image gallery - requires galleriffic
 $(function() {
     $('a.page-scroll').bind('click', function(event) {
         var $anchor = $(this);
@@ -12,6 +12,18 @@ $(function() {
             scrollTop: $($anchor.attr('href')).offset().top
         }, 1500, 'easeInOutExpo');
         event.preventDefault();
+    });
+});
+
+$(function () {
+    $("#nanoGallery1").nanoGallery({
+        kind:'flickr',
+        userID:'137583000@N02',
+        thumbnailWidth: 190, thumbnailHeight: 'auto',
+        theme: 'clean',
+        maxWidth: 948,
+        thumbnailHoverEffect: 'imageScale150',
+        thumbnailLabel: { display: true, hideIcons: true, align: 'center' }
     });
 });
 
