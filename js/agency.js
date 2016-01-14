@@ -18,7 +18,7 @@ $(function() {
 $(function () {
     $("#nanoGallery1").nanoGallery({
         kind:'flickr',
-        userID:'137583000@N02',
+        userID:'135938622@N04',
         thumbnailWidth: 190, thumbnailHeight: 'auto',
         theme: 'clean',
         maxWidth: 948,
