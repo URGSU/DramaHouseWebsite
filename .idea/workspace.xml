@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7202e60f-a6fd-402f-8447-3b93b04fc3e2" name="Default" comment="Added period">
+    <list default="true" id="7202e60f-a6fd-402f-8447-3b93b04fc3e2" name="Default" comment="Updated Application">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/DramaHouse_Constitution_2015.pdf" afterPath="$PROJECT_DIR$/docs/DramaHouse_Constitution_2015.pdf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Drama House Website.iws" />
@@ -222,6 +223,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -285,7 +287,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -417,15 +418,15 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
       <tasks />
       <pass-parent-envs>true</pass-parent-envs>
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
@@ -463,6 +464,10 @@
       <option name="usbDebugPort" value="7936" />
       <method />
     </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -482,10 +487,6 @@
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
-      <method />
-    </configuration>
-    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
-      <TestRunner />
       <method />
     </configuration>
     <configuration default="true" type="JarApplication" factoryName="JAR Application">
@@ -794,7 +795,8 @@
       <workItem from="1452726828268" duration="3305000" />
       <workItem from="1452984537924" duration="1857000" />
       <workItem from="1455220726180" duration="2706000" />
-      <workItem from="1455665745784" duration="113000" />
+      <workItem from="1455665745784" duration="379000" />
+      <workItem from="1458675018824" duration="71000" />
     </task>
     <task id="LOCAL-00001" summary="First edit, changed welcome message">
       <created>1435884370975</created>
@@ -1576,11 +1578,17 @@
       <option name="project" value="LOCAL" />
       <updated>1455224399028</updated>
     </task>
-    <option name="localTasksCounter" value="131" />
+    <task id="LOCAL-00131" summary="Updated Application">
+      <created>1455666097169</created>
+      <option name="number" value="00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1455666097169</updated>
+    </task>
+    <option name="localTasksCounter" value="132" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="189288000" />
+    <option name="totallyTimeSpent" value="189625000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1651,7 +1659,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="Blue primary brand color, dark blue navbar" />
     <MESSAGE value="Replaced my background cover css with background-cover less function" />
     <MESSAGE value="Added jackie" />
     <MESSAGE value="Added Recruitment Video" />
@@ -1676,7 +1683,8 @@
     <MESSAGE value="Updated contact webmaster footer link and increased lower margin of hosted events for improved mobile appearance" />
     <MESSAGE value="Added tabs to Members section" />
     <MESSAGE value="Added period" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added period" />
+    <MESSAGE value="Updated Application" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Application" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -2009,13 +2017,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LICENSE">
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="3120">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/jquery.js">
