@@ -2,151 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7202e60f-a6fd-402f-8447-3b93b04fc3e2" name="Default" comment="Updated e board">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/team/amanda.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/team/elise.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/team/gouri.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/team/jake.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/team/jay.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/LICENSE-MIT" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/appveyor.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/lib/grunt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/lib/grunt/cli.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/lib/grunt/config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/lib/grunt/event.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/lib/grunt/fail.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/lib/grunt/file.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/lib/grunt/help.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/lib/grunt/option.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/lib/grunt/task.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/lib/grunt/template.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/lib/util/task.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/.bin/cake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/.bin/coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/.bin/js-yaml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/.bin/nopt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/.bin/rimraf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/.bin/which" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/async/.gitmodules" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/async/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/async/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/async/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/async/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/async/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/async/lib/async.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/async/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/coffee-script/bin/cake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/coffee-script/bin/coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/colors/MIT-LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/colors/ReadMe.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/colors/colors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/colors/example.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/colors/example.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/colors/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/colors/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/colors/themes/winston-dark.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/colors/themes/winston-light.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/dateformat/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/dateformat/lib/dateformat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/dateformat/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/dateformat/test/test_weekofyear.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/dateformat/test/test_weekofyear.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/exit/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/exit/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/exit/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/exit/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/exit/LICENSE-MIT" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/exit/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/exit/lib/exit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/exit/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/exit/test/exit_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/exit/test/fixtures/10-stderr.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/exit/test/fixtures/10-stdout-stderr.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/exit/test/fixtures/10-stdout.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/exit/test/fixtures/100-stderr.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/exit/test/fixtures/100-stdout-stderr.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/exit/test/fixtures/100-stdout.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/exit/test/fixtures/1000-stderr.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/exit/test/fixtures/1000-stdout-stderr.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/exit/test/fixtures/1000-stdout.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/exit/test/fixtures/create-files.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/exit/test/fixtures/log-broken.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/exit/test/fixtures/log.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/findup-sync/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/findup-sync/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/findup-sync/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/findup-sync/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/findup-sync/LICENSE-MIT" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/findup-sync/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/findup-sync/lib/findup-sync.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/findup-sync/node_modules/glob/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/findup-sync/node_modules/glob/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/findup-sync/node_modules/glob/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/findup-sync/node_modules/glob/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/findup-sync/node_modules/glob/glob.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/findup-sync/node_modules/glob/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/findup-sync/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/findup-sync/test/findup-sync_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/findup-sync/test/fixtures/a.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/findup-sync/test/fixtures/a/b/bar.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/findup-sync/test/fixtures/a/foo.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/findup-sync/test/fixtures/aaa.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/getobject/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/getobject/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/getobject/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/getobject/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/getobject/LICENSE-MIT" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/getobject/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/getobject/lib/getobject.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/getobject/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/getobject/test/namespace_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/examples/g.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/examples/usr-local.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/glob.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/node_modules/graceful-fs/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/node_modules/graceful-fs/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/node_modules/graceful-fs/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/node_modules/graceful-fs/graceful-fs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/node_modules/graceful-fs/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/node_modules/graceful-fs/test/open.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/node_modules/graceful-fs/test/ulimit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/node_modules/inherits/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/node_modules/inherits/inherits.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/node_modules/inherits/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/test/00-setup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/test/bash-comparison.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/test/bash-results.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/test/cwd-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/test/mark.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/test/nocase-nomagic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/test/pause-resume.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/test/root-nomount.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/test/root.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/test/zz-cleanup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/hooker/LICENSE-MIT" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/hooker/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/hooker/child.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/hooker/dist/ba-hooker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/hooker/dist/ba-hooker.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/hooker/grunt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/hooker/lib/hooker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/hooker/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/hooker/parent.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/hooker/test/hooker_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/iconv-lite/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/iconv-lite/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/iconv-lite/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/iconv-lite/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/iconv-lite/encodings/big5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/iconv-lite/encodings/gbk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/iconv-lite/encodings/singlebyte.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/build/team/amanda.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/build/team/elise.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/build/team/gouri.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/build/team/jackie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/build/team/jake.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/build/team/jay.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Drama House Website.iws" />
@@ -180,7 +41,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.57052296">
+            <state vertical-scroll-proportion="0.57233703">
               <caret line="495" column="84" selection-start-line="495" selection-start-column="84" selection-end-line="495" selection-end-column="84" />
               <folding>
                 <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -490,6 +351,46 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="team" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Drama House Website" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Drama-House-Website" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Drama House Website" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Drama-House-Website" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1273,13 +1174,7 @@
       <workItem from="1462038607098" duration="473000" />
       <workItem from="1478222467830" duration="2965000" />
       <workItem from="1486774723232" duration="4689000" />
-      <workItem from="1486954722060" duration="159000" />
-    </task>
-    <task id="LOCAL-00092" summary="Trying to fix hosted events img mobile moreso moreso">
-      <created>1440278792101</created>
-      <option name="number" value="00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1440278792102</updated>
+      <workItem from="1486954722060" duration="321000" />
     </task>
     <task id="LOCAL-00093" summary="Trying to fix hosted events img mobile moreso moreso">
       <created>1440278882892</created>
@@ -1569,11 +1464,17 @@
       <option name="project" value="LOCAL" />
       <updated>1486954540764</updated>
     </task>
-    <option name="localTasksCounter" value="141" />
+    <task id="LOCAL-00141" summary="Updated e board">
+      <created>1486954909256</created>
+      <option name="number" value="00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1486954909256</updated>
+    </task>
+    <option name="localTasksCounter" value="142" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="200095000" />
+    <option name="totallyTimeSpent" value="200257000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1590,14 +1491,15 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32599118" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19349593" sideWeight="0.4875549" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19349593" sideWeight="0.5124451" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19349593" sideWeight="0.48751837" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19349593" sideWeight="0.51248163" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1612,7 +1514,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -2086,7 +1987,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.57052296">
+        <state vertical-scroll-proportion="0.57233703">
           <caret line="495" column="84" selection-start-line="495" selection-start-column="84" selection-end-line="495" selection-end-column="84" />
           <folding>
             <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
